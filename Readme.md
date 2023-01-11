@@ -17,4 +17,5 @@ Eg:
 gpt3.ps1 "How to install with wget on windows?" 
 ```
 
+![image](https://user-images.githubusercontent.com/52143660/211889091-3788bc89-f1ac-44ff-91c5-e02259c938e9.png)
 
